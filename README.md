@@ -1,5 +1,5 @@
 ## Desafios em javascript
-###01 - crie uma condição composta com uma variável dia e a condição verifica se está de dia mostre 'claro' senão mostre está 'de noite'
+### 01 - crie uma condição composta com uma variável dia e a condição verifica se está de dia mostre 'claro' senão mostre está 'de noite'
 
 02 - Crie um loop for() que exiba apenas números pares até o 20 no console.log()
 
